@@ -33,5 +33,5 @@ function validate() {
 
 function redirect() {
     // console.log("redirect")
-    window.location.replace("./main/index.html");
+    window.location.replace("./main/todo.html");
 }
